@@ -60,6 +60,7 @@ html {
 .result-header {
   color: hsl(241, 100%, 89%);
   margin: 15px auto;
+  font-size: 1.3rem;
 }
 .overall-score {
   width: 200px;
@@ -265,7 +266,7 @@ html {
     gap: 15px;
   }
   .result-summary {
-    width: 300px;
+    width: 280px;
     margin-bottom: 20px;
   }
   .summary {
