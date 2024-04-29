@@ -261,10 +261,10 @@ html {
   .result {
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
-    padding: 15px;
+    padding: 30px;
   }
   .summary {
-    padding: 15px;
+    padding: 30px;
   }
 }
 @media all and (min-width: 450px) and (max-width: 699px) {
