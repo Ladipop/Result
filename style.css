@@ -263,6 +263,10 @@ html {
     border-bottom-left-radius: 50px;
     padding: 30px;
   }
+  .result-summary {
+    width: 300px;
+    margin-bottom: 20px;
+  }
   .summary {
     padding: 30px;
   }
